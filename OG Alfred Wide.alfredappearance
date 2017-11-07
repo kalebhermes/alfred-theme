@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#FEFFFF65"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#D17333E4"
+      },
+      "backgroundSelected" : "#6B34D0E4",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#FEFFFFE5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#00000000",
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FEFFFFFF"
+      },
+      "backgroundSelected" : "#FFDFB3FF"
+    },
+    "window" : {
+      "color" : "#000000AA",
+      "paddingHorizontal" : 9,
+      "width" : 660,
+      "borderPadding" : 0,
+      "borderColor" : "#0000002E",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 8
+    },
+    "credit" : "Kaleb Hermes",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#D17333E4",
+      "thickness" : 2
+    },
+    "name" : "OG Alfred Wide"
+  }
+}
